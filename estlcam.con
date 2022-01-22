@@ -62,7 +62,7 @@ START = "(----------)"
 ;
 ; Program moves
 ;
-RAPID_RATE_MOVE        = "G0 [X] F2400 [Y] F2400 [Z] 480"
+RAPID_RATE_MOVE        = "G0 [X] [Y] [Z] [F]"
 FIRST_FEED_RATE_MOVE   = "G1 [X] [Y] [Z] [F]"
 FEED_RATE_MOVE         = "G1 [X] [Y] [Z]"
 
